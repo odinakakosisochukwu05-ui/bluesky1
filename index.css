@@ -1,0 +1,103 @@
+.name h1{
+    /* font-family: script; */
+    font-size: 90PX;
+    text-align: center;
+    
+}
+.name h2{
+    font-size: 50px;
+    text-align: center;
+  
+}
+
+.hamburger{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+align-items: center;
+align-content: center;
+padding-left:50% ;
+}
+
+.nav a{
+    color: black;
+     padding-left: 20px;
+}
+.nav{
+    gap: 90px;
+    padding-left: 20px;
+}
+
+input{
+    border-radius:10px ;
+    width: 300px;
+}
+
+.search-bar{
+    gap: 20px;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.see-more{
+padding-left: 500px;
+}
+
+
+.see-more-section{
+    padding-right: 220px;
+    padding-bottom: 20px;
+  
+} 
+
+.dish-section{
+/* padding-left: 20PX; */
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.dish-img{
+      width: 300px;
+   height:500px ; 
+}
+
+.dish-img p{
+ font-size: 20px;
+font-weight: 500;
+padding-left: 200px;
+} 
+
+section{
+     display: grid;
+     grid-template-columns: 200fr 1fr ;
+}
+
+.about-owner{
+    /* border: 2px solid black; */
+    width: 300px;
+    padding-right: 100px;
+      display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.about-owner h4{
+    width: 300px;
+    height: 50px;
+}
+
+.owner-img{
+    border-radius: 50%;
+    /* border: 1px solid white; */
+    width: 200px;
+    height: 200px;
+    padding-right:10px ;
+}
+
+.contact-us a i{
+font-size: 40px;
+color: rgb(101, 61, 61);
+padding-top: 50px;
+
+}
+
